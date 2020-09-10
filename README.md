@@ -1,5 +1,5 @@
 
-# STOCK PRICE PREDICTION - Samsung Electronics co., Ltd
+## STOCK PRICE PREDICTION - Samsung Electronics co., Ltd
 
 ### 주요내용
 1. 삼성전자 종가 예측
